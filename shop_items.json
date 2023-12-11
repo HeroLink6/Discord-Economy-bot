@@ -1,0 +1,30 @@
+{
+    "Keycard": {
+        "price": 100,
+        "quantity": 100000000
+    },
+    "Computer": {
+        "price": 150,
+        "quantity": 29999999999
+    },
+    "Potion": {
+        "price": 50,
+        "quantity": 3000000000
+    },
+    "Shoutout": {
+        "price": 10000,
+        "quantity": 500000000
+    },
+    "Custom Channel": {
+        "price": 1500,
+        "quantity": 50000000000
+    },
+    "Toasty Economy bot user role": {
+        "price": 1000,
+        "quantity": 5000000000
+    },
+    "Farewell Toasty role": {
+        "price": 1000,
+        "quantity": 1000000000
+    }
+}
